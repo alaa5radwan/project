@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": " full-fledged e-commerce platform where users can browse products, add them to a shopping cart, and checkout securely",
+  "main": "index.js",
+  "scripts": {
+    "test": "l"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/passantamr/E-commerce-platform.git"
+  },
+  "keywords": [
+    "122333"
+  ],
+  "author": "team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/passantamr/E-commerce-platform/issues"
+  },
+  "homepage": "https://github.com/passantamr/E-commerce-platform#readme",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
